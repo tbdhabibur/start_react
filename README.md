@@ -1,3 +1,24 @@
+       Required dependencies 
+    1. Install node js
+ 	download
+ 	for Linux
+ 	for Windows
+    2. Install npm
+        	Open your terminal and install npm 
+               “sudo install npm”
+    3. Install react package
+        	“npm I g create-react-app@1.5.2”
+               “sudo npm I g create-react-app@1.5.2”  //for Linux
+
+
+       Create react project
+       Open terminal
+       “create-react-app project_name”
+       “cd project_name”
+       “npm start” //react app started yeyyyy
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
